@@ -1,10 +1,9 @@
+**Mata Kuliah:** Pemrograman Berbasis Jaringan  
+**Dosen:** Randi Proska Sandra, S.Pd, M.Sc
+
 # 🌦️ Aplikasi Cuaca Berbasis Web
 
 Aplikasi Cuaca adalah aplikasi **web fullstack** yang dibangun menggunakan **Node.js dan Express** untuk menampilkan **informasi cuaca terkini** dan **berita terbaru seputar cuaca serta iklim**. Aplikasi ini dirancang dengan antarmuka yang sederhana, responsif, dan mudah digunakan.
-
-**Mata Kuliah:** Pemrograman Berbasis Jaringan  
-**Dosen:** Randi Proska Sandra, S.Pd, M.Sc ©2023
-
 
 ## ✨ Fitur Utama
 
