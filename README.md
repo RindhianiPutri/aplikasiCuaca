@@ -1,4 +1,4 @@
-**Mata Kuliah:** Pemrograman Berbasis Jaringan  
+**Mata Kuliah:** Praktikum Pemrograman Jaringan  
 **Dosen:** Randi Proska Sandra, S.Pd, M.Sc
 
 # 🌦️ Aplikasi Cuaca Berbasis Web
