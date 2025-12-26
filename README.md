@@ -2,7 +2,9 @@
 
 Aplikasi Cuaca adalah aplikasi **web fullstack** yang dibangun menggunakan **Node.js dan Express** untuk menampilkan **informasi cuaca terkini** dan **berita terbaru seputar cuaca serta iklim**. Aplikasi ini dirancang dengan antarmuka yang sederhana, responsif, dan mudah digunakan.
 
----
+**Mata Kuliah:** Pemrograman Berbasis Jaringan  
+**Dosen:** Randi Proska Sandra, S.Pd, M.Sc ©2023
+
 
 ## ✨ Fitur Utama
 
@@ -18,7 +20,7 @@ Aplikasi Cuaca adalah aplikasi **web fullstack** yang dibangun menggunakan **Nod
 * 👤 **Tentang Aplikasi**
   Informasi singkat mengenai pengembang dan tujuan pembuatan aplikasi.
 
----
+
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -33,7 +35,7 @@ Aplikasi Cuaca adalah aplikasi **web fullstack** yang dibangun menggunakan **Nod
 | Konfigurasi     | dotenv                          |
 | Deployment      | Vercel                          |
 
----
+
 
 ## 📁 Struktur Proyek
 
@@ -58,7 +60,6 @@ project-root/
 └── README.md
 ```
 
----
 
 ## 🚀 Cara Menjalankan Aplikasi
 
@@ -104,20 +105,16 @@ Buka browser dan kunjungi:
 http://localhost:4000
 ```
 
----
-
 ## 📌 Catatan
 
 * Aplikasi ini cocok digunakan sebagai **projek pembelajaran fullstack JavaScript**.
 * Seluruh tampilan dirancang responsif untuk desktop dan mobile.
 * Struktur folder dibuat modular agar mudah dikembangkan.
 
----
 
 ## 📄 Lisensi
 
 Proyek ini bersifat **open-source** dan bebas digunakan untuk keperluan pembelajaran.
 
----
 
 🌤️ *Selamat menggunakan Aplikasi Cuaca!*
